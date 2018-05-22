@@ -1,3 +1,4 @@
+.idea/
 vendor/
 node_modules/
 npm-debug.log
@@ -10,11 +11,14 @@ app/storage/
 public/storage
 public/hot
 storage/*.key
+storage/logs/
+storage/framework/
 .env.*.php
 .env.php
 .env
 Homestead.yaml
 Homestead.json
+composer.lock
 
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
